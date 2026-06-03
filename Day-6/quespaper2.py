@@ -1,0 +1,6 @@
+s input()
+print('total characters:'len(s))
+print('first characters:'s[0])
+print('last characters:'s[-1])
+print('uppercase:'s.upper())
+print('reversed string:'s[::-1])
