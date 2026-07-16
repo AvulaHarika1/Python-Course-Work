@@ -8,7 +8,7 @@ for i in range(10):
     print(i)
 
 
-    for in range(10):
+    for i in range(10):
         if i==5:
             continue
         print(i)
